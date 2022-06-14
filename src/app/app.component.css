@@ -1,0 +1,8 @@
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.list-group-item i{
+    color: rgb(29, 210, 29);
+}
